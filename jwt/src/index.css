@@ -1,0 +1,43 @@
+.conter{
+margin: 10rem;
+padding: auto;
+    justify-content: center;
+    align-items: center;
+    background: greenyellow;
+}
+.det{
+    padding: auto;
+    margin: 2rem;
+    display: flex;
+    align-items: center;
+    margin-left: 12rem;
+}
+.input1{
+    margin-left: 12.7rem;
+
+}
+.input12{
+    margin-left: 8rem;
+
+}
+h2{
+    margin-left: 16rem;
+}
+
+.input13{
+    margin-left: 11.3rem;
+
+}
+
+.input14{
+    margin-left: 12.3rem;
+
+}
+.input15{
+    margin-left: 12.9rem;
+
+}
+
+body{
+    background-color: black;
+}
